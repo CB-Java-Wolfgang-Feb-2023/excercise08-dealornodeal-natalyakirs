@@ -1,0 +1,59 @@
+$$$$$$$$ Welcome to DEAL OR NO DEAL $$$$$$$$
+Please press D/d for a debugging session or press any other key to start the game: 
+
+[1][2][3][4][5][6][7][8][9][10][11][12][13][14][15][16][17][18][19][20][21][22][23][24][25][26]
+Please choose your suitcase 1-26 with your price: 
+30
+This number is out of range, please try again.
+Please choose your suitcase 1-26 with your price: d
+Please type in a number!
+Please choose your suitcase 1-26 with your price: 26
+You chose number 26.
+
+[1][2][3][4][5][6][7][8][9][10][11][12][13][14][15][16][17][18][19][20][21][22][23][24][25]
+Pick a suitcase to eliminate form the game: 26
+Sorry, this suitcase is already taken, please try again.
+Pick a suitcase to eliminate form the game: m
+Please type in a number!
+Pick a suitcase to eliminate form the game: 0
+This number is out of range, please try again.
+Pick a suitcase to eliminate form the game: 1
+Case 1 was eliminated.
+It contains 25$.
+ 
+Pick a suitcase to eliminate form the game: 2
+Case 2 was eliminated.
+It contains 50000$.
+ 
+Pick a suitcase to eliminate form the game: 3
+Case 3 was eliminated.
+It contains 500$.
+ 
+Pick a suitcase to eliminate form the game: 4
+Case 4 was eliminated.
+It contains 75000$.
+ 
+Pick a suitcase to eliminate form the game: 5
+Case 5 was eliminated.
+It contains 300$.
+ 
+Pick a suitcase to eliminate form the game: 6
+Case 6 was eliminated.
+It contains 1$.
+ 
+The bank offers you 16462$.
+Do you accept the offer?
+Please press Y/y for YES and N/n for NO: a
+Please type in a valid character.
+Do you accept the offer?
+Please press Y/y for YES and N/n for NO: 3
+Please type in a valid character.
+Do you accept the offer?
+Please press Y/y for YES and N/n for NO: y
+You decided to end the game.
+Congratulations, you won 16462$.
+GAME OVER
+$$$$$$$$ Thank you for playing DEAL OR NO DEAL $$$$$$$$
+Please try again at another time, bye bye!
+
+Process finished with exit code 0

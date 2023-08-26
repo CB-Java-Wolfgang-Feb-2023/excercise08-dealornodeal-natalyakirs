@@ -1,0 +1,160 @@
+$$$$$$$$ Welcome to DEAL OR NO DEAL $$$$$$$$
+Please press D/d for a debugging session or press any other key to start the game: d
+
+[1][2][3][4][5][6][7][8][9][10][11][12][13][14][15][16][17][18][19][20][21][22][23][24][25][26]
+Please choose your suitcase 1-26 with your price: 1
+You chose number 1.
+
+[2][3][4][5][6][7][8][9][10][11][12][13][14][15][16][17][18][19][20][21][22][23][24][25][26]
+Pick a suitcase to eliminate form the game: 2
+Case 2 was eliminated.
+It contains 1$.
+ 
+Pick a suitcase to eliminate form the game: 3
+Case 3 was eliminated.
+It contains 5$.
+ 
+Pick a suitcase to eliminate form the game: 4
+Case 4 was eliminated.
+It contains 10$.
+ 
+Pick a suitcase to eliminate form the game: 5
+Case 5 was eliminated.
+It contains 25$.
+ 
+Pick a suitcase to eliminate form the game: 6
+Case 6 was eliminated.
+It contains 50$.
+ 
+Pick a suitcase to eliminate form the game: 7
+Case 7 was eliminated.
+It contains 75$.
+ 
+The bank offers you 17091$.
+Do you accept the offer?
+Please press Y/y for YES and N/n for NO: n
+
+[8][9][10][11][12][13][14][15][16][17][18][19][20][21][22][23][24][25][26]
+Pick a suitcase to eliminate form the game: 8
+Case 8 was eliminated.
+It contains 100$.
+ 
+Pick a suitcase to eliminate form the game: 9
+Case 9 was eliminated.
+It contains 200$.
+ 
+Pick a suitcase to eliminate form the game: 10
+Case 10 was eliminated.
+It contains 300$.
+ 
+Pick a suitcase to eliminate form the game: 11
+Case 11 was eliminated.
+It contains 400$.
+ 
+Pick a suitcase to eliminate form the game: 12
+Case 12 was eliminated.
+It contains 500$.
+ 
+The bank offers you 45556$.
+Do you accept the offer?
+Please press Y/y for YES and N/n for NO: n
+
+[13][14][15][16][17][18][19][20][21][22][23][24][25][26]
+Pick a suitcase to eliminate form the game: 13
+Case 13 was eliminated.
+It contains 750$.
+ 
+Pick a suitcase to eliminate form the game: 14
+Case 14 was eliminated.
+It contains 1000$.
+ 
+Pick a suitcase to eliminate form the game: 15
+Case 15 was eliminated.
+It contains 5000$.
+ 
+Pick a suitcase to eliminate form the game: 16
+Case 16 was eliminated.
+It contains 10000$.
+ 
+The bank offers you 92727$.
+Do you accept the offer?
+Please press Y/y for YES and N/n for NO: n
+
+[17][18][19][20][21][22][23][24][25][26]
+Pick a suitcase to eliminate form the game: 17
+Case 17 was eliminated.
+It contains 25000$.
+ 
+Pick a suitcase to eliminate form the game: 18
+Case 18 was eliminated.
+It contains 50000$.
+ 
+Pick a suitcase to eliminate form the game: 19
+Case 19 was eliminated.
+It contains 75000$.
+ 
+The bank offers you 162500$.
+Do you accept the offer?
+Please press Y/y for YES and N/n for NO: n
+
+[20][21][22][23][24][25][26]
+Pick a suitcase to eliminate form the game: 20
+Case 20 was eliminated.
+It contains 100000$.
+ 
+Pick a suitcase to eliminate form the game: 21
+Case 21 was eliminated.
+It contains 200000$.
+ 
+The bank offers you 245833$.
+Do you accept the offer?
+Please press Y/y for YES and N/n for NO: n
+
+[22][23][24][25][26]
+Pick a suitcase to eliminate form the game: 22
+Case 22 was eliminated.
+It contains 300000$.
+ 
+The bank offers you 318000$.
+Do you accept the offer?
+Please press Y/y for YES and N/n for NO: n
+
+[23][24][25][26]
+Pick a suitcase to eliminate form the game: 23
+Case 23 was eliminated.
+It contains 400000$.
+ 
+The bank offers you 393750$.
+Do you accept the offer?
+Please press Y/y for YES and N/n for NO: n
+
+[24][25][26]
+Pick a suitcase to eliminate form the game: 24
+Case 24 was eliminated.
+It contains 500000$.
+ 
+The bank offers you 466666$.
+Do you accept the offer?
+Please press Y/y for YES and N/n for NO: n
+
+[25][26]
+Pick a suitcase to eliminate form the game: 25
+Case 25 was eliminated.
+It contains 750000$.
+ 
+The bank offers you 450000$.
+Do you accept the offer?
+Please press Y/y for YES and N/n for NO: n
+The suitcase with your price was number 1.
+Suitcase number 26 is the last one remaining.
+Now we give you a chance to switch to this suitcase.
+Do you want to switch suitcases?
+Please press Y/y for YES and N/n for NO: n
+
+Opening suitcase number 1.
+Congratulations, you won 0$.
+GAME OVER
+$$$$$$$$ Thank you for playing DEAL OR NO DEAL $$$$$$$$
+Please try again at another time, bye bye!
+
+Process finished with exit code 0
